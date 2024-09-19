@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eruskkii
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python for Data Science
+- 👀 I’m interested in Backend Engineering and Artificial Intelligence
+- 🌱 I’m currently learning Java for backend
 - 💞️ I’m looking to collaborate on data projects and models that analyse social media, and customer behaviour for digital media businesses
 - 📫 How to reach me: Reach me on twitter with (@eruskkii)
 
