@@ -1,20 +1,23 @@
 👋 Hi, I’m Emmanuel ( @eruskkii )
 
-I work at the intersection of content systems, product storytelling, and software. 
-I’m backend-leaning (Java, Spring Boot, SQL) and I’m especially interested in AI-assisted workflows that help media and fintech teams move faster.
+I work at the intersection of Product, storytelling, and intelligent software systems. 
+I’m primarily a backend engineer (Java, Spring Boot) and interesting in how AI systems handle data under uncertain conditions. So naturally, doing lots of work with Python - traditional ML/DL systems and LLMs. 
+
+Spent most of my domain in the media and fintech space.m
 
 🔧 Tech I use
-- Java, Spring Boot, SQL, Docker
-- Basic frontend: JavaScript, React
-- AI tooling: prompt systems, evaluation, workflow automation
+- Backend: Java, Spring Boot, SQL, Docker
+- Frontend: JavaScript, React
+- AI: Python, and frameworks like Scikit-learn, tensorflow, pytorch and LLMs
 
 🧠 What I’m exploring
-- Small backend services and APIs
+- Backend services and APIs
+- How LLMS adjudicate information in a time where AI increasingly mediates access to information in both formal and informal settings. 
 - Data and text workflows for digital media (audience behaviour, engagement, distribution)
-- Practical AI: summarisation, classification, extraction, and research pipelines
 
 🤝 Open to collaborating on
-- Backend projects with clean APIs and good docs
+- Interesting projects that solve problems for businesses and indie entrepreneurs
+- Socially impactful projects for emerging markets like Africa
 - Data projects focused on media or customer behaviour
 - Tools that make research and publishing faster
 
